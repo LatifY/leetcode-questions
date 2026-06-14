@@ -32,7 +32,7 @@ def main():
         "Tags (Space to select, Enter to confirm):",
         choices=[
             "Array", "String", "Hash Table", "Math", "Dynamic Programming", 
-            "Sorting", "Greedy", "DFS", "BFS", "Tree", "Binary Tree", 
+            "Sorting", "Greedy", "DFS", "BFS", "Tree", "Binary Tree", "Linked List",
             "Binary Search", "Matrix", "Two Pointers", "Bit Manipulation", 
             "Stack", "Graph", "Prefix Sum", "Backtracking", "Trie", "Heap"
         ]
