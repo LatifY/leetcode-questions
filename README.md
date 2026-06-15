@@ -9,3 +9,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3559 | Number of Ways to Assign Edge Weights II | [C++](./questions/3559.cpp) | 🔴 Hard |  `DFS`, `Tree`, `Array` |
 | 3838 | Weighted Word Mapping | [C++](./questions/3838.cpp) | 🟢 Easy | `Array`, `String` |
 | 2130 | Maximum Twin Sum of a Linked List | [C++](./questions/2130.cpp) | 🟡 Medium | `Linked List`, `Two Pointers`, `Stack` |
+| 2095 | Delete the Middle Node of a Linked List | [C++](./questions/2095.cpp) | 🟡 Medium | `Linked List`, `Two Pointers` |
