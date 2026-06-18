@@ -12,3 +12,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 2095 | Delete the Middle Node of a Linked List | [C++](./questions/2095.cpp) | 🟡 Medium | `Linked List`, `Two Pointers` |
 | 3612 | Process String with Special Operations I | [C++](./questions/3612.cpp) | 🟡 Medium | `String` |
 | 3614 | Process String with Special Operations II | [C++](./questions/3614.cpp) | 🔴 Hard | `String` |
+| 1344 | Angle Between Hands of a Clock | [C++](./questions/1344.cpp) | 🟡 Medium | `Math`, `Simulation` |
