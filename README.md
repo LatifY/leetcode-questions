@@ -14,3 +14,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3614 | Process String with Special Operations II | [C++](./questions/3614.cpp) | 🔴 Hard | `String` |
 | 1344 | Angle Between Hands of a Clock | [C++](./questions/1344.cpp) | 🟡 Medium | `Math`, `Simulation` |
 | 1732 | Find the Highest Altitude | [C++](./questions/1732.cpp) | 🟢 Easy | `Array`, `Prefix Sum` |
+| 1840 | Maximum Building Height | [C++](./questions/1840.cpp) | 🔴 Hard | `Array`, `Math`, `Sorting` |
