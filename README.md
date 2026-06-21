@@ -15,3 +15,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1344 | Angle Between Hands of a Clock | [C++](./questions/1344.cpp) | 🟡 Medium | `Math`, `Simulation` |
 | 1732 | Find the Highest Altitude | [C++](./questions/1732.cpp) | 🟢 Easy | `Array`, `Prefix Sum` |
 | 1840 | Maximum Building Height | [C++](./questions/1840.cpp) | 🔴 Hard | `Array`, `Math`, `Sorting` |
+| 1833 | Maximum Ice Cream Bars | [C++](./questions/1833.cpp) | 🟡 Medium | `Array`, `Sorting`, `Greedy` |
