@@ -16,3 +16,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1732 | Find the Highest Altitude | [C++](./questions/1732.cpp) | 🟢 Easy | `Array`, `Prefix Sum` |
 | 1840 | Maximum Building Height | [C++](./questions/1840.cpp) | 🔴 Hard | `Array`, `Math`, `Sorting` |
 | 1833 | Maximum Ice Cream Bars | [C++](./questions/1833.cpp) | 🟡 Medium | `Array`, `Sorting`, `Greedy` |
+| 1189 | Maximum Number of Balloons | [C++](./questions/1189.cpp) | 🟢 Easy | `String` |
