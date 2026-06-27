@@ -21,3 +21,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3700 | Number of ZigZag Arrays II | [C++](./questions/3700.cpp) | 🔴 Hard | `Math`, `Dynamic Programming`, `Matrix` |
 | 3737 | Count Subarrays With Majority Element I | [C++](./questions/3737.cpp) | 🟡 Medium | `Array`, `Hash Table`, `Tree` |
 | 3739 | Count Subarrays With Majority Element II | [C++](./questions/3739.cpp) | 🔴 Hard | `Array`, `Tree` |
+| 3020 | Find the Maximum Number of Elements in Subset | [C++](./questions/3020.cpp) | 🟡 Medium | `Array`, `Hash Table` |
