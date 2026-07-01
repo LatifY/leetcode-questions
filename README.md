@@ -25,3 +25,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1846 | Maximum Element After Decreasing and Rearranging | [C++](./questions/1846.cpp) | 🟡 Medium | `Array`, `Sorting`, `Greedy` |
 | 1967 | Number of Strings That Appear as Substrings in Word | [C++](./questions/1967.cpp) | 🟢 Easy | `Array`, `String` |
 | 1358 | Number of Substrings Containing All Three Characters | [C++](./questions/1358.cpp) | 🟡 Medium | `String`, `Two Pointers`, `Sliding Window` |
+| 2812 | Find the Safest Path in a Grid | [C++](./questions/2812.cpp) | 🟡 Medium | `Array`, `BFS`, `Matrix`, `Heap` |
