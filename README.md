@@ -28,3 +28,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 2812 | Find the Safest Path in a Grid | [C++](./questions/2812.cpp) | 🟡 Medium | `Array`, `BFS`, `Matrix`, `Heap` |
 | 3286 | Find a Safe Walk Through a Grid | [C++](./questions/3286.cpp) | 🟡 Medium | `Array`, `BFS`, `Matrix`, `Heap` |
 | 3620 | Network Recovery Pathways | [C++](./questions/3620.cpp) | 🔴 Hard | `Array`, `Graph`, `Heap` |
+| 2492 | Minimum Score of a Path Between Two Cities | [C++](./questions/2492.cpp) | 🟡 Medium | `BFS`, `Graph` |
