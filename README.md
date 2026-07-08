@@ -32,3 +32,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1301 | Number of Paths with Max Score | [C++](./questions/1301.cpp) | 🔴 Hard | `Array`, `Dynamic Programming`, `Matrix` |
 | 1288 | Remove Covered Intervals | [C++](./questions/1288.cpp) | 🟡 Medium | `Array`, `Sorting` |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | [C++](./questions/3754.cpp) | 🟢 Easy | `Math` |
+| 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | [C++](./questions/3756.cpp) | 🟡 Medium | `String`, `Math`, `Prefix Sum` |
