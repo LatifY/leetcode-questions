@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-150+ days in, still going. One problem every day, this is where I keep track of everything.
+200+ days in, still going. One problem every day, this is where I keep track of everything.
 Solutions are in C++, tagged by topic, with complexity notes in the file headers.
 
 | # | Problem Name | Language | Difficulty | Tags |
