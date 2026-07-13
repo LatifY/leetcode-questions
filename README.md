@@ -37,3 +37,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3534 | Path Existence Queries in a Graph II | [C++](./questions/3534.cpp) | 🔴 Hard | `Array`, `Dynamic Programming`, `Sorting`, `Binary Search`, `Two Pointers`, `Graph` |
 | 2685 | Count the Number of Complete Components | [C++](./questions/2685.cpp) | 🟡 Medium | `DFS`, `BFS`, `Graph` |
 | 1331 | Rank Transform of an Array | [C++](./questions/1331.cpp) | 🟢 Easy | `Array`, `Hash Table`, `Sorting` |
+| 1291 | Sequential Digits | [C++](./questions/1291.cpp) | 🟡 Medium | `Enumeration` |

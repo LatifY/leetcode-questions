@@ -31,7 +31,7 @@ def main():
     tags = questionary.checkbox(
         "Tags (Space to select, Enter to confirm):",
         choices=[
-            "Array", "String", "Hash Table", "Math", "Dynamic Programming","Sliding Window", "Simulation", 
+            "Array", "String", "Hash Table", "Math", "Enumeration", "Dynamic Programming","Sliding Window", "Simulation", 
             "Sorting", "Greedy", "DFS", "BFS", "Tree", "Binary Tree", "Linked List",
             "Binary Search", "Matrix", "Two Pointers", "Bit Manipulation", 
             "Stack", "Graph", "Prefix Sum", "Backtracking", "Trie", "Heap"
