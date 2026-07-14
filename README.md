@@ -38,3 +38,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 2685 | Count the Number of Complete Components | [C++](./questions/2685.cpp) | 🟡 Medium | `DFS`, `BFS`, `Graph` |
 | 1331 | Rank Transform of an Array | [C++](./questions/1331.cpp) | 🟢 Easy | `Array`, `Hash Table`, `Sorting` |
 | 1291 | Sequential Digits | [C++](./questions/1291.cpp) | 🟡 Medium | `Enumeration` |
+| 3336 | Find the Number of Subsequences With Equal GCD | [C++](./questions/3336.cpp) | 🔴 Hard | `Array`, `Math`, `Dynamic Programming` |
