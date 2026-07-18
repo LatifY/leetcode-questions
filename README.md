@@ -40,3 +40,5 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1291 | Sequential Digits | [C++](./questions/1291.cpp) | 🟡 Medium | `Enumeration` |
 | 3336 | Find the Number of Subsequences With Equal GCD | [C++](./questions/3336.cpp) | 🔴 Hard | `Array`, `Math`, `Dynamic Programming` |
 | 3867 | Sum of GCD of Formed Pairs | [C++](./questions/3867.cpp) | 🟡 Medium | `Array`, `Math`, `Simulation`, `Sorting`, `Two Pointers` |
+| 3312 | Sorted GCD Pair Queries | [C++](./questions/3312.cpp) | 🔴 Hard | `Array`, `Hash Table`, `Math`, `Binary Search` |
+| 1979 | Find Greatest Common Divisor of Array | [C++](./questions/1979.cpp) | 🟢 Easy | `Array`, `Math` |
