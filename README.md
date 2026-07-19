@@ -42,3 +42,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3867 | Sum of GCD of Formed Pairs | [C++](./questions/3867.cpp) | 🟡 Medium | `Array`, `Math`, `Simulation`, `Sorting`, `Two Pointers` |
 | 3312 | Sorted GCD Pair Queries | [C++](./questions/3312.cpp) | 🔴 Hard | `Array`, `Hash Table`, `Math`, `Binary Search` |
 | 1979 | Find Greatest Common Divisor of Array | [C++](./questions/1979.cpp) | 🟢 Easy | `Array`, `Math` |
+| 1081 | Smallest Subsequence of Distinct Characters | [C++](./questions/1081.cpp) | 🟡 Medium | `String`, `Greedy`, `Stack` |
