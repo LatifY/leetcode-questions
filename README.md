@@ -43,3 +43,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 3312 | Sorted GCD Pair Queries | [C++](./questions/3312.cpp) | 🔴 Hard | `Array`, `Hash Table`, `Math`, `Binary Search` |
 | 1979 | Find Greatest Common Divisor of Array | [C++](./questions/1979.cpp) | 🟢 Easy | `Array`, `Math` |
 | 1081 | Smallest Subsequence of Distinct Characters | [C++](./questions/1081.cpp) | 🟡 Medium | `String`, `Greedy`, `Stack` |
+| 1260 | Shift 2D Grid | [C++](./questions/1260.cpp) | 🟢 Easy | `Array`, `Simulation`, `Matrix` |
