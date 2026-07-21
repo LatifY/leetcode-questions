@@ -44,3 +44,4 @@ Solutions are in C++, tagged by topic, with complexity notes in the file headers
 | 1979 | Find Greatest Common Divisor of Array | [C++](./questions/1979.cpp) | 🟢 Easy | `Array`, `Math` |
 | 1081 | Smallest Subsequence of Distinct Characters | [C++](./questions/1081.cpp) | 🟡 Medium | `String`, `Greedy`, `Stack` |
 | 1260 | Shift 2D Grid | [C++](./questions/1260.cpp) | 🟢 Easy | `Array`, `Simulation`, `Matrix` |
+| 3499 | Maximize Active Section with Trade I | [C++](./questions/3499.cpp) | 🟡 Medium | `String`, `Enumeration` |
